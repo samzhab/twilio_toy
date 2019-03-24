@@ -1,15 +1,15 @@
-# twilio_toy
-Twilio API ruby toy project 
+	# twilio_toy
+	Twilio API ruby toy project 
 
-![temporary logo](https://s2.gifyu.com/images/Peek-2018-10-29-00-13.gif "twilio_toy temporary logo")
+	![temporary logo](https://s2.gifyu.com/images/Peek-2018-10-29-00-13.gif "twilio_toy temporary logo")
 
-Uses https://www.twilio.com/
-* task_1
-* task_2
-.
+	Uses https://www.twilio.com/
+	* task_1
+	* task_2
 
-##![screen capture get_my_news](https://s2.gifyu.com/images/Peek-2018-10-28-18-13.gif "Screen Sample runing the script")
-
+	<!---
+	##![screen capture get_my_news](https://s2.gifyu.com/images/Peek-2018-10-28-18-13.gif "Screen Sample runing the script")
+	--->-
 Prerequisites:
 * rvm (rvm.io)
 * ruby interpreter (2.0+)
