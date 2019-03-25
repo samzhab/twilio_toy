@@ -44,4 +44,4 @@ eg. `$ rvm gemset create twilio_toy`
 * make script executable
 `$ chmod +x twilio_ruby.rb`
 * run script 
-`$ ./twilio_ruby`
+`$ ./twilio_ruby.rb`
