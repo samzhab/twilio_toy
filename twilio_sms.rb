@@ -61,5 +61,7 @@ class TwilioSms
     file.close
   end
 
+end
+
 twilio_obj = TwilioSms.new
 twilio_obj.start
