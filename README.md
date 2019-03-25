@@ -41,5 +41,7 @@ eg. `$ rvm gemset create twilio_toy`
 `$ bundle`
 * create directory api_keys
 `$ mkdir api_keys`
+* make script executable
+`$ chmod +x twilio_ruby.rb`
 * run script 
-`$ ruby twilio_toy.rb`
+`$ ./twilio_ruby`
