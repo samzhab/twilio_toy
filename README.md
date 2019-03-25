@@ -4,7 +4,7 @@ Twilio API ruby toy project
 ![temporary logo](https://s2.gifyu.com/images/Peek-2018-10-29-00-13.gif "twilio_toy temporary logo")
 
 Uses https://www.twilio.com/
-* task_1
+* Send SMS
 * task_2
 
 <!---
@@ -39,5 +39,7 @@ eg. `$ rvm gemset create twilio_toy`
 `$ gem install bundler`
 * install necessary gems
 `$ bundle`
+* create directory api_keys
+`$ mkdir api_keys`
 * run script 
 `$ ruby twilio_toy.rb`
