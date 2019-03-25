@@ -11,3 +11,4 @@ gem 'json', '~> 2.1.0'
 gem 'rest-client'
 gem 'rubocop', '~> 0.51.0', require: false
 gem 'twilio-ruby'
+gem 'sinatra'

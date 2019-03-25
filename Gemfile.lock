@@ -18,6 +18,7 @@ GEM
     mime-types-data (3.2018.0812)
     mini_portile2 (2.4.0)
     multipart-post (2.0.0)
+    mustermann (1.0.3)
     netrc (0.11.0)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
@@ -26,6 +27,9 @@ GEM
       ast (~> 2.4.0)
     powerpack (0.1.2)
     public_suffix (3.0.3)
+    rack (2.0.6)
+    rack-protection (2.0.5)
+      rack
     rainbow (2.2.2)
       rake
     rake (12.3.2)
@@ -41,6 +45,12 @@ GEM
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
     ruby-progressbar (1.10.0)
+    sinatra (2.0.5)
+      mustermann (~> 1.0)
+      rack (~> 2.0)
+      rack-protection (= 2.0.5)
+      tilt (~> 2.0)
+    tilt (2.0.9)
     twilio-ruby (5.21.2)
       faraday (~> 0.9)
       jwt (>= 1.5, <= 2.5)
@@ -59,6 +69,7 @@ DEPENDENCIES
   json (~> 2.1.0)
   rest-client
   rubocop (~> 0.51.0)
+  sinatra
   twilio-ruby
 
 BUNDLED WITH
