@@ -18,7 +18,8 @@ Prerequisites:
 * twilio api Key (get one from https://www.twilioi.com)
 
 Current State:
-* start of project 
+* ask and save api credentials locally if not found
+* load api credentials if found locally
 * initial states for requesting api calls
 
 Modules and APIs involved in this project:

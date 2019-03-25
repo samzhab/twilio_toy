@@ -11,7 +11,7 @@ class TwilioSms
 
   def start
     puts '[twilio_api] TWILIO SMS'
-    puts '[twilio_api] ENTER YOU APIKEY'
+    puts '[twilio_api] TWILIO API CREDENTIALS'
     api_auth = ask_or_load_twilio_api_auth
     puts '[twilio_api] ENTER YOUR TWILIO NUMBER'
     from = gets.chomp
