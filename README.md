@@ -1,7 +1,7 @@
 # twilio_toy
 Twilio API ruby toy project 
 
-![temporary logo](https://s2.gifyu.com/images/Peek-2018-10-29-00-13.gif "twilio_toy temporary logo")
+![temporary logo](https://bt-strike.s3-us-west-2.amazonaws.com/images/ruby.gif "twilio_toy temporary logo")
 
 Uses https://www.twilio.com/
 * Send SMS
